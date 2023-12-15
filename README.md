@@ -1,0 +1,6 @@
+- Hi, I’m @Breakout-X
+- I like to make websites that allow others to create projects of their dreams, I like foxes since they are my favorite animal. So that is why it is my alt profile.
+- I created a animal called a Rexercat, that is what my username is based of.
+- I am currently learning html, css, javascript, and will soon be learning machine coding.
+- I’m looking to collaborate on my project: Web-Breakout
+- You can read my profile for details on that. Don't email me as @Breakout-X. Contact me on @ELedlow
