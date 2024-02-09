@@ -3,4 +3,6 @@
 - I created a animal called a Rexercat, that is what my username is based of.
 - I am currently learning html, css, javascript, and will soon be learning machine coding.
 - I’m looking to collaborate on my project: Web-Breakout
-- You can read my profile for details on that. Don't email me as @Breakout-X. Contact me on @ELedlow
+- You can read my profile for details on that.
+- Please don't email me unless it's actually important. I am a busy man.
+- If you absolutly have to contact me, contact me on my scratch account. ```https://scratch.mit.edu/users/ELedlow```
