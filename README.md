@@ -1,8 +1,12 @@
-- Hi, I’m @Breakout-X
-- I like to make websites that allow others to create projects of their dreams, I like foxes since they are my favorite animal. So that is why it is my alt profile.
-- I created a animal called a Rexercat, that is what my username is based of.
-- I am currently learning html, css, javascript, and will soon be learning machine coding.
-- I’m looking to collaborate on my project: Web-Breakout
-- You can read my profile for details on that.
-- Please don't email me unless it's actually important. I am a busy man.
-- If you absolutly have to contact me, contact me on my scratch account. ```https://scratch.mit.edu/users/ELedlow```
+# Welcome to Breakout-X
+Welcome to my special repository.
+My goal in using GitHub is to create projects that allow other people to be creative, easier, faster, and better.
+
+--------
+My programming language is called the Master Code File Language, which basically just compiles JavaScript to run new commands and functions without having to spend hours to write the same code in raw JavaScript.
+
+Currently the version is at v0.5.0 as so far, the only complied thing is JavaScript imports without requiring a ES6 module, meaning that this can be used locally as well.
+
+You can use the language in your work by creating a file called Complier.mc or .mcf and importing the code from the latest complier version. The MME is text/javascript as most unknown files are marked as application/oogtar or plain text.
+
+--------
