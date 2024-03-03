@@ -1,5 +1,5 @@
 # Welcome to Breakout-X
-Welcome to my special repository.
+This is my special repository.
 My goal in using GitHub is to create projects that allow other people to be creative, easier, faster, and better.
 
 --------
