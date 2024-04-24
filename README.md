@@ -10,3 +10,4 @@ Currently the version is at v0.5.0 as so far, the only complied thing is JavaScr
 You can use the language in your work by creating a file called Complier.mc or .mcf and importing the code from the latest complier version. The MME is text/javascript as most unknown files are marked as application/oogtar or plain text.
 
 --------
+[Go visit the main page](https://breakout-x.github.io/Breakout-X/index.html)
