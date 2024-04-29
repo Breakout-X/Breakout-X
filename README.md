@@ -1,24 +1,13 @@
-# Your Favicon Package
+# Welcome to Breakout-X
+Welcome to my special repository.
+My goal in using GitHub is to create projects that allow other people to be creative, easier, faster, and better.
 
-This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
+--------
+My programming language is called the Master Code File Language, which basically just compiles JavaScript to run new commands and functions without having to spend hours to write the same code in raw JavaScript.
 
-## Install instructions
+Currently the version is at v0.5.0 as so far, the only complied thing is JavaScript imports without requiring a ES6 module, meaning that this can be used locally as well.
 
-To install this package:
+You can use the language in your work by creating a file called Complier.mcrf or .mcfx and importing the code from the latest complier version. The MME is text/javascript as most unknown files are marked as application/text or plain text.
 
-Extract this package in the root of your web site. If your site is <code>http://www.example.com</code>, you should be able to access a file named <code>http://www.example.com/favicon.ico</code>.
-
-Insert the following code in the `head` section of your pages:
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
-    <link rel="manifest" href="/site.webmanifest?v=2">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=2" color="#d5ac5b">
-    <link rel="shortcut icon" href="/favicon.ico?v=2">
-    <meta name="apple-mobile-web-app-title" content="Breakout-X">
-    <meta name="application-name" content="Breakout-X">
-    <meta name="msapplication-TileColor" content="#ab7700">
-    <meta name="theme-color" content="#ffffff">
-
-*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
+--------
+For more information, please visit [**Web-Breakout**](https://github.com/Web-Breakout/Web-Breakout.github.io).
