@@ -11,3 +11,11 @@ You can use the language in your work by creating a file called Complier.mcrf or
 
 --------
 For more information, please visit [**Web-Breakout**](https://github.com/Web-Breakout/Web-Breakout.github.io).
+
+--------
+Also if you want to learn how to make my creepy VHS filter and audio distortion, I'll soon release a repository about on how to do it in JavaScript.
+
+--------
+© 2024 Breakout-X. All Rights Reserved.
+
+See the [LICENSE](/LICENSE.md) for more information.
