@@ -3,7 +3,9 @@ Welcome to my special repository.
 My goal in using GitHub is to create projects that allow other people to be creative, easier, faster, and better.
 
 --------
-My programming language is called the Master Code File Language, which basically just compiles JavaScript to run new commands and functions without having to spend hours to write the same code in Vanilla JavaScript.
+My programming language is called the Master Code File Language, which uses machine code and commands to create MasterCode Binary Applications. 
+> [Learn more](https://GitHub.com/Breakout-X/MasterCode-Applications).
+
 
 Currently the version is at v0.5.0 as so far, the only complied thing is JavaScript imports without requiring a ES6 module, meaning that this can be used locally as well.
 
