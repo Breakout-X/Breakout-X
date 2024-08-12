@@ -24,4 +24,4 @@ If someone has queries about my project or repository content ratings, or about 
 --------
 © 2024 Breakout-X. All Rights Reserved.
 
-See the [**LICENSE**](/LICENSE.md) for more information.
+See the [**NOTICE**](/NOTICE.md) for more information.
