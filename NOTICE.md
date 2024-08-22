@@ -14,5 +14,3 @@ For inquiries regarding permissions, please contact:
 
 - ELedlow's [Scratch Profile](https://scratch.mit.edu/users/ELedlow)
 - Breakout-X's [Github Profile](https://github.com/Breakout-X/)
-- GigglePlobber's [Scratch Profile](https://scratch.mit.edu/users/ELedlow/#USER%20GigglePlobber%20NOT%20NOTIFIED)
-- Mario_TB's [Scratch Profile](https://scratch.mit.edu/users/ELedlow/#USER%20Mario_TB%20NOT%20NOTIFIED)
