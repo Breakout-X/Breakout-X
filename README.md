@@ -13,8 +13,8 @@ You can use the language in your work by creating a file called Complier.mcrf or
 > For more information, please visit [**Web-Breakout**](https://GitHub.com/Web-Breakout/Web-Breakout.github.io).
 
 --------
-If you want to learn how to make my creepy VHS filter and audio distortion, I'll soon release a repository about on how to do it in JavaScript and HTML5. However, it's my thing, so I obviously won't give you the exact sprites.
-> [Learn more](https://GitHub.com/Breakout-X/VHS).
+If you want to learn how to make my creepy VHS filter, audio distortion, and sprite animation, I'll soon release a repository about on how to do it in JavaScript and HTML5. It will be open-source (aside from the copyrighted sprites) and will a full package.
+> [Learn more about **VHS.js**](https://GitHub.com/Breakout-X/VHS).
 
 
 --------
