@@ -14,7 +14,7 @@ You can use the language in your work by creating a file called Complier.mcrf or
 
 --------
 If you want to learn how to make my creepy VHS filter, audio distortion, and sprite animation, I'll soon release a repository about on how to do it in JavaScript and HTML5. It will be open-source (aside from the copyrighted sprites) and will a full package.
-> [Learn more about **VHS.js**](https://GitHub.com/Breakout-X/VHS).
+> Learn more about [**VHS.js**](https://GitHub.com/Breakout-X/VHS).
 
 
 --------
