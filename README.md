@@ -22,7 +22,8 @@ If someone has queries about my projects, repository content ratings, or about m
 See the [**NOTICE**](/NOTICE.md) for more information.
 
 --------
-### Trophies:<br>
+### Trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Breakout-X&theme=onedark)](https://github.com/Breakout-X/)<br>
 
 Thanks [Ryo-Ma](https://github.com/ryo-ma/) for the [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) api.
