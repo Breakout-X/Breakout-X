@@ -24,6 +24,6 @@ See the [**NOTICE**](/NOTICE.md) for more information.
 --------
 ### Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Breakout-X&theme=onedark)](https://github.com/Breakout-X/)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Breakout-X&theme=onedark)](https://github.com/Breakout-X/Breakout-X/blob/e8fc768933723ba696f96c1130a608ec09ee585f/README.md)<br>
 
 Thanks [Ryo-Ma](https://github.com/ryo-ma/) for the [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) api.
