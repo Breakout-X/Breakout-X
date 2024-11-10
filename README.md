@@ -1,13 +1,28 @@
 # Welcome to Breakout-X
-Welcome to my special repository.
-My goal in using GitHub is to create projects that allow other people to be creative, easier, faster, and better.
+My name is Elijah Ledlow. I am an indie developer, artist and story writer.
 
-Please note that a lot of my applications are currently unavalible. The open source ones will be placed back up while fully copyrighted, restricted, or legally private ones will stay private unless they allow free distributions with credit.
+My goal in using GitHub is to create projects that allow other people to be creative easier, faster, and better.
+
+Please note that a lot of my applications are currently unavalible due to these two issues:
+1. Someone kept reposting my stuff on Chinese websites without my permission. Thankfully, my copyrighted content didn't get reposted as I took it down as soon as I found this out. I had valid reason to worry, but I do apologize for all of the repositories I had to make private or delete permanently.
+2. I misread GitHub's guidelines and didn't know that GitHub Public repositories require an open-source license.
+
+I am a part of [**The Web-Breakout Team**](https://github.com/Web-Breakout), and I am the story writer, artist and programmer. I am looking for more members who can do the following:
+1. Low-level and Middle-level programmers.
+    - I really need these.
+2. High-level programmers.
+    - I need these.
+3. Playtesters.
+    - I want these, however I could play test myself if no one volunteers.
+4. Pixel Artists.
+5. Artists.
+
+Please contact me if you would like to join. However, please note that I currently do not pay members for joining the team. I do apologize in advance if this is why you wanted to join.
+> Learn more about [**Web-Breakout**](https://github.com/Web-Breakout)
 
 --------
-My programming language is called `RexercatScript`, which uses a combination JavaScript, machine code, and commands to create `Rexercat Applications.`
-It is currently a work in progress right now.
-> [Learn more](https://GitHub.com/Breakout-X/RexercatScript/).
+My custom programming language is called "`Rexercat Script`", which will be programmed in `C`, `ASM`, `Python`, `Java`, and `NodeJS`. It will be made to create "`Rexercat Applications`" for my future OS. It is currently a work in progress right now.
+> Learn more about [**Rexercat Script**](https://GitHub.com/Breakout-X/RexercatScript/).
 
 --------
 If you want to learn how to make sprite animation using JavaScript and Rexercat-Script, I'll soon release a repository about on how to do it in JavaScript and HTML5. It will be open-source (aside from any copyrighted sprites and music) and will a full package.
