@@ -7,15 +7,7 @@ Please note that a lot of my applications are currently unavalible due to these 
 1. Someone kept reposting my stuff on Chinese websites without my permission. Thankfully, my copyrighted content didn't get reposted as I took it down as soon as I found this out. I had valid reason to worry, but I do apologize for all of the repositories I had to make private or delete permanently.
 2. I misread GitHub's guidelines and didn't know that GitHub Public repositories require an open-source license.
 
-I am a part of [**The Web-Breakout Team**](https://github.com/Web-Breakout), and I am the story writer, artist and programmer. I am looking for more members who can do the following:
-1. Low-level and Middle-level programmers.
-    - I really need these.
-2. High-level programmers.
-    - I need these.
-3. Playtesters.
-    - I want these, however I could play test myself if no one volunteers.
-4. Pixel Artists.
-5. Artists.
+I am a part of [**The Web-Breakout Team**](https://github.com/Web-Breakout).
 
 Please contact me if you would like to join. However, please note that I currently do not pay members for joining the team. I do apologize in advance if this is why you wanted to join.
 > Learn more about [**Web-Breakout**](https://github.com/Web-Breakout)
@@ -37,8 +29,17 @@ If someone has queries about my projects, repository content ratings, or about m
 See the [**NOTICE**](/NOTICE.md) for more information.
 
 --------
+
+### Status:
+
+[![Breakout-X's Github states](https://github-readme-stats.vercel.app/api?username=Breakout-X&show_icons=true&theme=tokyonight&hide=["issues"])](https://github.com/Breakout-X/Breakout-X/)
+
+[![Breakout-X's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Breakout-X&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Breakout-X/Breakout-X/)
+
 ### Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Breakout-X&theme=onedark)](https://github.com/Breakout-X/Breakout-X/blob/e8fc768933723ba696f96c1130a608ec09ee585f/README.md)<br>
+[![Breakout-X's trophies](https://github-profile-trophy.vercel.app/?username=Breakout-X&theme=onedark)](https://github.com/Breakout-X/Breakout-X/)<br>
 
+--------
+Thanks [anuraghazra](https://github.com/anuraghazra/) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) api.<br>
 Thanks [Ryo-Ma](https://github.com/ryo-ma/) for the [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) api.
