@@ -13,18 +13,8 @@ Please contact me if you would like to join. However, please note that I current
 > Learn more about [**Web-Breakout**](https://github.com/Web-Breakout)
 
 --------
-My custom programming language is called "`Rexercat Script`", which will be programmed in `C`, `ASM`, `Python`, `Java`, and `NodeJS`. It will be made to create "`Rexercat Applications`" for my future OS. It is currently a work in progress right now.
-> Learn more about [**Rexercat Script**](https://GitHub.com/Breakout-X/RexercatScript/).
 
---------
-If you want to learn how to make sprite animation using JavaScript and Rexercat-Script, I'll soon release a repository about on how to do it in JavaScript and HTML5. It will be open-source (aside from any copyrighted sprites and music) and will a full package.
-> Learn more about [**VHS.js**](https://GitHub.com/Breakout-X/VHS.JS).
-
---------
-If someone has queries about my projects, repository content ratings, or about my recent copyright notice, feel free to contact me via one of the links on my [**Profile**](https://GitHub.com/Breakout-X).
-
---------
-© 2024 Breakout-X. All Rights Reserved.
+© 2024-Present Breakout-X. All Rights Reserved.
 
 See the [**NOTICE**](/NOTICE.md) for more information.
 
