@@ -1,5 +1,5 @@
 # Welcome to Breakout-X
-My name is Elijah Ledlow. I am an indie developer, artist, and story writer.
+My name is Elijah Ledlow. I am a game developer, artist, and story writer.
 
 My goal in using GitHub is to create projects that allow other people to be creative easier, faster, and better.
 
