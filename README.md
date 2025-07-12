@@ -1,11 +1,13 @@
 # Welcome to Breakout-X
 My name is Elijah Ledlow. I am a game developer, artist, and story writer.
 
-My goal in using GitHub is to create projects that allow other people to be creative easier, faster, and better.
+I am a follower of Yahushua. I often browse for ROM hacking tools or app developmemt tools.
+
+My goal in using GitHub is to create projects that promote creativity.
 
 --------
 
-© Breakout-X. All Rights Reserved.
+© Elijah Ledlow. All Rights Reserved.
 
 --------
 
@@ -19,6 +21,6 @@ My goal in using GitHub is to create projects that allow other people to be crea
 
 [![Breakout-X's trophies](https://github-profile-trophy.vercel.app/?username=Breakout-X&theme=onedark)](https://github.com/Breakout-X/Breakout-X/)<br>
 
---------
-Thanks [anuraghazra](https://github.com/anuraghazra/) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) api.<br>
-Thanks [Ryo-Ma](https://github.com/ryo-ma/) for the [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) api.
+#### Special Thanks
+- Thanks [anuraghazra](https://github.com/anuraghazra/) for the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) api.
+- Thanks [Ryo-Ma](https://github.com/ryo-ma/) for the [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) api.
