@@ -3,8 +3,6 @@
 ### Bio:
 My name is Elijah Ledlow, more commonly known as **ELedlow The Fox** or **Breakout-X**. I am a game developer, artist, and creative writer. 
 
-I am a follower of Yahweh. I try to find the truth in this cruel cruel world buried among all of the lies.
-
 --------
 
 ### About Me:
